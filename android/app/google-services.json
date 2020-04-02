@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985305396214",
+    "firebase_url": "https://mrpmile-cb81d.firebaseio.com",
+    "project_id": "mrpmile-cb81d",
+    "storage_bucket": "mrpmile-cb81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985305396214:android:cf61380702fede85734dd7",
+        "android_client_info": {
+          "package_name": "com.aquad.tech.mrpmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985305396214-r8agm5itn0o190kn8nsjbnj0ga5h2bbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUo5OrhAmmwreeIdQPf1VW1UXxbS5_h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985305396214-r8agm5itn0o190kn8nsjbnj0ga5h2bbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
